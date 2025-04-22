@@ -5,13 +5,7 @@ Generate high-quality synthetic datasets using powerful language models like Dee
 
 ---
 
-## 📸 Project Screenshot
 
-> Replace the line below with your image or GIF to showcase your project (e.g., a dataset preview or notebook interface).
-
-![Project Screenshot](path/to/your-image.png)
-
----
 
 ## 🚀 Features
 
